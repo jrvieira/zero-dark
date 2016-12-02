@@ -1,14 +1,14 @@
 # zero-dark-theme
 
-Sublime Text 3 Web Dev Theme
+Sublime Text 3 Web Dev Color Scheme
 
 ![screenshot](https://github.com/jrvieira/zero-dark-theme/blob/master/dark.png)
 
 # zero-dark-alt
 
-![screenshot](https://github.com/jrvieira/zero-dark-theme/blob/master/dark-alt.png)
+Very detailed and logical alternative for JavaScript coding
 
-Very detailed and logical for JavaScript coding
+![screenshot](https://github.com/jrvieira/zero-dark-theme/blob/master/dark-alt.png)
 
 ### How to Install
 
