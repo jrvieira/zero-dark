@@ -18,15 +18,11 @@ The easiest way to install ~~is~~ will be using [Sublime Package Control](https:
 
 You can also install the theme manually:
 
-1. Create a new folder inside the `Packages` directory which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
+1. Place the `zero-dark-theme` folder inside the `Packages` directory which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
+
+2. Activate by navigating to `Sublime Text -> Preferences -> Color Scheme -> User -> zero-dark-theme`
 
 ***
-
-### How to Activate
-
-Activate the color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (<kbd>⌘</kbd><kbd>,</kbd> on Mac).
-
-***Note: Don't forget to restart Sublime Text after activating the theme.***
 
 ### Bonus seaweed theme preview
 
