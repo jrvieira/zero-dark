@@ -28,6 +28,6 @@ Activate the color scheme by modifying your user preferences file, which you can
 
 ***Note: Don't forget to restart Sublime Text after activating the theme.***
 
-#### Bonus seaweed theme preview
+### Bonus seaweed theme preview
 
 ![screenshot](https://github.com/jrvieira/zero-dark-theme/blob/master/seaweed.png)
