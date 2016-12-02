@@ -8,7 +8,7 @@ Sublime Text 3 Web Dev Theme
 
 #### Via Package Control (waiting for approval from SPC)
 
-The easiest way to install ~~is~~ will be using [Sublime Package Control](https://sublime.wbond.net), where zero-dark-theme is listed as `zero-dark-theme`.
+The easiest way to install ~~is~~ will be using [Sublime Package Control](https://sublime.wbond.net).
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
