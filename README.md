@@ -24,6 +24,6 @@ You can also install the theme manually:
 
 ***
 
-### Bonus seaweed theme preview
+### Bonus Seaweed Theme Preview
 
 ![screenshot](https://github.com/jrvieira/zero-dark-theme/blob/master/seaweed.png)
