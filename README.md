@@ -4,6 +4,13 @@ Sublime Text 3 Web Dev Theme
 
 ![screenshot](https://github.com/jrvieira/zero-dark-theme/blob/master/dark.png)
 
+# alt
+
+Very detailed, logical theme for JavaScript coding.
+
+![screenshot](https://github.com/jrvieira/zero-dark-theme/blob/master/dark-alt.png)
+
+
 ### How to Install
 
 #### Via Package Control (waiting for approval from SPC)
