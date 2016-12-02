@@ -448,6 +448,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>punctuation.separator.comma</string>
+			<key>scope</key>
+			<string>punctuation.separator.comma</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>punctuation.definition.parameters</string>
 			<key>scope</key>
 			<string>punctuation.definition.parameters</string>
