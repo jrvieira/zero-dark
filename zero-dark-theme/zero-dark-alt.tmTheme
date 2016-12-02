@@ -61,17 +61,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>variable.parameter</string>
-			<key>scope</key>
-			<string>variable.parameter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c6bb9b80</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>entity.name</string>
 			<key>scope</key>
 			<string>entity.name</string>
@@ -303,6 +292,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>keyword.control.trycatch</string>
+			<key>scope</key>
+			<string>keyword.control.trycatch</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9baa</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>keyword.operator.ternary</string>
 			<key>scope</key>
 			<string>keyword.operator.ternary</string>
@@ -377,7 +377,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c6bb9baa</string>
+				<string>#c6bb9b80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -459,9 +459,31 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>variable.parameter</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>punctuation.definition.parameters</string>
 			<key>scope</key>
 			<string>punctuation.definition.parameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>punctuation.separator.parameter</string>
+			<key>scope</key>
+			<string>punctuation.separator.parameter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
