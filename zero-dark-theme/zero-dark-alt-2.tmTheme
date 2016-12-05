@@ -78,7 +78,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#67c4afaa</string>
+				<string>#99cc99aa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -89,7 +89,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string></string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -100,7 +100,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c54a57</string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -111,7 +111,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c54a57</string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -122,7 +122,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c54a57</string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -155,7 +155,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#67c4afaa</string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -254,7 +254,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99cc99</string>
+				<string>#67c4af</string>
 			</dict>
 		</dict>
 		<dict>
@@ -287,7 +287,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99cc99</string>
+				<string>#67c4afaa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -298,7 +298,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c6bb9baa</string>
+				<string>#67c4af</string>
 			</dict>
 		</dict>
 		<dict>
@@ -501,6 +501,7 @@
 				<string>#c6bb9b</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>support.type.object.console</string>
@@ -509,7 +510,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66cc</string>
+				<string>#cc9966</string>
 			</dict>
 		</dict>
 		<dict>
@@ -520,9 +521,10 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66cc</string>
+				<string>#cc9966</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>punctuation.terminator</string>
