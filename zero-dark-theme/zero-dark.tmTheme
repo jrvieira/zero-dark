@@ -61,17 +61,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>variable.parameter</string>
-			<key>scope</key>
-			<string>variable.parameter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c6bb9b80</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>entity.name</string>
 			<key>scope</key>
 			<string>entity.name</string>
@@ -89,7 +78,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bf603bcc</string>
+				<string>#99cc99aa</string>
 			</dict>
 		</dict>
 		<dict>
@@ -100,7 +89,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string></string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -111,7 +100,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c54a57</string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -122,7 +111,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c54a57</string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +122,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c54a57</string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,18 +155,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c54a57</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>constant.language.boolean</string>
-			<key>scope</key>
-			<string>constant.language.boolean</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#67c4afaa</string>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -287,7 +265,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cc99ccAA</string>
+				<string>#cc99ccaa</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>constant.language.boolean</string>
+			<key>scope</key>
+			<string>constant.language.boolean</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#99cc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -298,7 +287,62 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cc99ccaa</string>
+				<string>#67c4afaa</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword.control.trycatch</string>
+			<key>scope</key>
+			<string>keyword.control.trycatch</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67c4af</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword.operator.ternary</string>
+			<key>scope</key>
+			<string>keyword.operator.ternary</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67c4afaa</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword.operator.relational</string>
+			<key>scope</key>
+			<string>keyword.operator.relational</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword.operator.comparison</string>
+			<key>scope</key>
+			<string>keyword.operator.comparison</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword.operator.logical</string>
+			<key>scope</key>
+			<string>keyword.operator.logical</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#67c4afaa</string>
 			</dict>
 		</dict>
 		<!--
@@ -333,7 +377,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c6bb9baa</string>
+				<string>#c6bb9b80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -396,50 +440,6 @@
 			<string>punctuation.separator</string>
 			<key>scope</key>
 			<string>punctuation.separator</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c6bb9baa</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>keyword.operator.comparison</string>
-			<key>scope</key>
-			<string>keyword.operator.comparison</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c6bb9b</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>keyword.operator.logical</string>
-			<key>scope</key>
-			<string>keyword.operator.logical</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c6bb9b</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>punctuation.definition.parameters</string>
-			<key>scope</key>
-			<string>punctuation.definition.parameters</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c6bb9baa</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>variable.language.this</string>
-			<key>scope</key>
-			<string>variable.language.this</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -448,13 +448,69 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>punctuation.separator.comma</string>
+			<key>scope</key>
+			<string>punctuation.separator.comma</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>variable.parameter</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>punctuation.definition.parameters</string>
+			<key>scope</key>
+			<string>punctuation.definition.parameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>punctuation.separator.parameter</string>
+			<key>scope</key>
+			<string>punctuation.separator.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>variable.language.this</string>
+			<key>scope</key>
+			<string>variable.language.this</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c6bb9b</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
 			<string>support.type.object.console</string>
 			<key>scope</key>
 			<string>support.type.object.console</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66cc</string>
+				<string>#cc9966</string>
 			</dict>
 		</dict>
 		<dict>
@@ -465,9 +521,10 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66cc</string>
+				<string>#cc9966</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>punctuation.terminator</string>
