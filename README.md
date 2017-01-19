@@ -12,9 +12,9 @@ Very detailed and logical alternative for JavaScript coding
 
 ### How to Install
 
-#### Via Package Control (waiting for approval from SPC)
+#### Via Package Control
 
-The easiest way to install ~~is~~ will be using [Sublime Package Control](https://sublime.wbond.net).
+The easiest way to install is by using [Sublime Package Control](https://sublime.wbond.net).
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
