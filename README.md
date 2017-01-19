@@ -22,7 +22,7 @@ The easiest way to install is by using [Sublime Package Control](https://sublime
 
 #### Manual
 
-You can also install th manually:
+You can alternatively install it manually:
 
 1. Place the `zero-dark` folder inside the `Packages` directory which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
 
