@@ -32,6 +32,6 @@ You can alternatively install it manually:
 
 ***
 
-# zero-renaissance [BONUS!]
+# zero-renaissance BONUS!
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/renaissance.png)
