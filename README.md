@@ -1,12 +1,11 @@
 # zero-dark
 
-Sublime Text 3 Web Dev Color Scheme
+Sublime Text 3 Web Dev Color Scheme. Very detailed and logical color coding, perfect for js.
+Works great with the [Spacegray Eighties Theme](https://github.com/kkga/spacegray#spacegray-eighties).
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark.png)
 
 # zero-dark-alt
-
-Very detailed and logical alternative for JavaScript coding
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark-alt.png)
 
@@ -30,6 +29,6 @@ You can alternatively install it manually:
 
 ***
 
-### Bonus Seaweed Preview
+### Bonus! zero-renaissance
 
-![screenshot](https://github.com/jrvieira/zero-dark/blob/master/seaweed.png)
+![screenshot](https://github.com/jrvieira/zero-dark/blob/master/renaissance.png)
