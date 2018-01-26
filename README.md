@@ -1,12 +1,12 @@
 # zero-dark
 
-Very detailed and logical color coding, perfect for js.
+Logical color coding, optimized for js. Works great with the [Spacegray Eighties Theme](https://github.com/kkga/spacegray#spacegray-eighties).
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark.png)
 
 # zero-dark-alt
 
-Works great with the [Spacegray Eighties Theme](https://github.com/kkga/spacegray#spacegray-eighties).
+Alternative palette for stronger contrast.
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark-alt.png)
 
