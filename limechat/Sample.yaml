@@ -1,0 +1,58 @@
+# All colors must be in the form of '#rrggbb' or '#rgb'.
+# You cannot use color names.
+---
+log-view:
+  nickname-format: '%n : '
+  scroller-highlight-color: '#a9d3ab'
+
+input-text:
+  font-family: 'Source Code Pro'
+  font-size: 10
+  font-weight: medium
+  background-color: '#232323'
+  color: '#93a1a1'
+  selected:
+    background-color: '#4a4a4a'
+
+member-list:
+  font-family: 'Source Code Pro'
+  font-size: 10
+  font-weight: medium
+  color: '#545454'
+  background-color: '#232323'
+  operator:
+    color: '#d6add5'
+  selected:
+    color: '#fff'
+    background:
+      top-line-color: '#646464'
+      bottom-line-color: '#646464'
+      top-color: '#646464'
+      bottom-color: '#646464'
+
+server-tree:
+  font-family: 'Source Code Pro'
+  font-size: 10
+  font-weight: medium
+  background-color: '#232323'
+  highlight:
+    color: '#79d4d5'
+  newtalk:
+    color: '#a9d3ab'
+  unread:
+    color: '#d6d6d6'
+  normal:
+    active:
+      color: '#777777'
+    inactive:
+      color: '#4a4a4a'
+  selected:
+    active:
+      color: '#777777'
+    inactive:
+      color: '#4a4a4a'
+    background:
+      top-line-color: '#2f2f2f'
+      bottom-line-color: '#2f2f2f'
+      top-color: '#2f2f2f'
+      bottom-color: '#2f2f2f'
