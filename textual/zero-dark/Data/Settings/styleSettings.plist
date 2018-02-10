@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Channel View Overlay Color</key>
+	<string>#232323</string>
+	<key>Force Invert Sidebars</key>
+	<true/>
+	<key>Indentation Offset</key>
+	<integer>0</integer>
+	<key>Nickname Color Style</key>
+	<string>HSL-dark</string>
+	<key>Override Channel Font</key>
+	<dict>
+		<key>Font Name</key>
+		<string>Source Code Pro</string>
+		<key>Font Size</key>
+		<integer>10</integer>
+	</dict>
+	<key>Nickname Format</key>
+	<string>%@%n</string>
+	<key>Template Engine Versions</key>
+	<dict>
+		<key>default</key>
+		<integer>4</integer>
+	</dict>
+	<key>Underlying Window Color</key>
+	<string>#232323</string>
+</dict>
+</plist>

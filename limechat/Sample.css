@@ -224,14 +224,16 @@ strong.highlight {
   color: #444;
 }
 
-.message[type='action'],
-.message[type='join'],
-.message[type='part'],
-.message[type='quit']
+.message[type='action']
 {
   color: #444;
-  border-left: 1px dashed #444;
-  margin-left: =-1px;
+}
+
+.message[type='join'],
+.message[type='part'],
+.message[type='quit'] {
+  color: #232323;
+  background-color: #444;
 }
 
 .message[type='debug_send'] {
