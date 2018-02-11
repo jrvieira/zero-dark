@@ -1,10 +1,10 @@
-# zero-dark
+# zero-dark SublimeText Theme
 
 Logical color coding, optimized for js. Works great with the [Spacegray Eighties Theme](https://github.com/kkga/spacegray#spacegray-eighties).
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark.png)
 
-# zero-dark-alt
+## zero-dark-alt
 
 Alternative palette for stronger contrast.
 
@@ -32,8 +32,20 @@ You can alternatively install it manually:
 
 ***
 
-# Bonus: zero-renaissance
+## Bonus: zero-renaissance
 
 Cowabunga.
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/renaissance.png)
+
+***
+
+# zero-dark Textual + LimeChat Theme
+
+![screenshot](https://github.com/jrvieira/zero-dark/blob/master/textual.png)
+
+***
+
+# +
+
+Check the files to see all apps.
