@@ -117,7 +117,7 @@ body[data-custom-scroller="true"]::-webkit-scrollbar-thumb:hover {
 /* Links */
 
 a {
-	color: #79d4d5 !important;
+	color: #cc99cc !important;
 	background-color: #232323;
 	text-decoration: none;
 	padding: 3px 0px;
@@ -125,7 +125,7 @@ a {
 
 a:hover {
 	color: #232323!important;
-	background-color: #79d4d5;
+	background-color: #cc99cc;
 }
 
 /*div.line:hover a {
@@ -219,7 +219,12 @@ div.line.selectedUser {
 	background-color: #2a2a2a;
 }
 
-div.line.selectedUser[data-line-type="privmsg"][data-member-type="myself"] .time {
+div.line[data-line-type="privmsg"][data-member-type="myself"] .time {
+	color: #93a1a1;
+}
+
+div.line[data-line-type="privmsg"][data-member-type="myself"]:hover .time {
+	color: #fff;
 }
 
 /* Message buffer loading animation */
