@@ -85,7 +85,7 @@ strong.highlight {
 }
 
 .line[type='action'] .sender:before {
-  content: '• ';
+  content: '!';
   white-space: nowrap;
 }
 
