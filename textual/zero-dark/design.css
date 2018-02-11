@@ -311,7 +311,9 @@ div.line[data-line-type="wallops"] .sender{
 
 /* PRIVMSG */
 
-div.line[data-line-type="privmsg"][data-highlight="true"] a {
+div.line[data-line-type="privmsg"][data-highlight="true"] .sender:before {
+	content: "• ";
+	color: #888;
 }
 
 div.line[data-line-type="privmsg"][data-member-type="myself"] .message {
@@ -330,31 +332,12 @@ div.line[data-line-type="action"] .message {
 	color: #444;
 }
 
-div.line[data-line-type="action"] .sender {
+div.line[data-line-type="action"] .sender:before {
+	content: "! ";
 }
 
 div.line[data-line-type="action"][data-member-type="myself"] .sender {
 	color: #93a1a1;
-}
-
-body[dir="ltr"] div.line[data-line-type="action"] .sender:before {
-	content: "!";
-	margin-right: 0.4em;
-}
-
-body[dir="ltr"] div.line[data-line-type="action"] .sender:after {
-	content: "";
-  	/* margin-right: 0.4em; */
-}
-
-body[dir="rtl"] div.line[data-line-type="action"] .sender:before {
-	content: "!";
-	margin-left: 0.4em;
-}
-
-body[dir="rtl"] div.line[data-line-type="action"] .sender:after {
-	content: "";
-  	/* margin-left: 0.4em; */
 }
 
 /* DEBUG/INVITE */
