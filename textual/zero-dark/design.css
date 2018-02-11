@@ -327,6 +327,7 @@ div.line[data-line-type="action"] .message {
 
 div.line[data-line-type="action"] .sender:before {
 	content: "! ";
+	color: #444;
 }
 
 div.line[data-line-type="action"][data-member-type="myself"] .sender {
