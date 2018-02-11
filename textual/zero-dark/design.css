@@ -118,7 +118,6 @@ body[data-custom-scroller="true"]::-webkit-scrollbar-thumb:hover {
 
 a {
 	color: #cc99cc !important;
-	background-color: #232323;
 	text-decoration: none;
 	padding: 3px 0px;
 }
@@ -159,12 +158,6 @@ a:hover {
 	white-space: normal;
 }
 
-#topicBar a,
-#topicBar span.channel {
-	color: #8E8E8E;
-	border-color: #8E8E8E;
-}
-
 /* Remember Line */
 
 #mark {
@@ -192,7 +185,7 @@ a:hover {
 .message {
 	display: block;
 	margin-left: 120px;
-	margin-right: 70px;
+	margin-right: 90px;
 	color: #888;
 	white-space: normal;
 	text-indent: 0px;
@@ -202,7 +195,7 @@ a:hover {
 
 .time {
 	display: block;
-	right: 5px;
+	right: 15px;
 	position: absolute;
 	color: #444;
 	white-space: nowrap;
