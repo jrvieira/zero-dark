@@ -306,7 +306,7 @@ div.line[data-line-type="wallops"] .sender{
 
 div.line[data-line-type="privmsg"][data-highlight="true"] .sender:before {
 	content: "• ";
-	color: #888;
+	color: #93a1a1;
 }
 
 div.line[data-line-type="privmsg"][data-member-type="myself"] .message {
@@ -394,8 +394,15 @@ div.line[data-line-type="quit"] .message,
 div.line[data-line-type="kill"] .message,
 div.line[data-line-type="nick"] .message,
 div.line[data-line-type="mode"] .message,
-div.line[data-line-type="topic"] .message,
 div.line[data-line-type="website"] .message {
+	color: #444!important;
+}
+
+div.line[data-line-type="topic"] .message {
+	color: #fed37f!important;
+}
+
+div.line[data-line-type="debug"] .message {
 	color: #444!important;
 }
 
