@@ -293,13 +293,13 @@ div.line[data-line-type="privmsg"][data-member-type="myself"]:hover .time {
 div.line[data-line-type="ctcp"] .message,
 div.line[data-line-type="notice"] .message,
 div.line[data-line-type="wallops"] .message{
-	color: #93a1a1;
+	color: #444;
 }
 
 div.line[data-line-type="ctcp"] .sender,
 div.line[data-line-type="notice"] .sender,
 div.line[data-line-type="wallops"] .sender{
-	color: #444;
+	color: #93a1a1;
 }
 
 /* PRIVMSG */
