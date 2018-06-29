@@ -34,11 +34,13 @@ You can alternatively install it manually:
 
 # Textual + LimeChat
 
+Thoughfully designed minimal interface for effective communication.
+
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/textual.png)
 
 ***
 
-# Supported apps
+# All supported apps
 
 - SublimeText
 - Atom
