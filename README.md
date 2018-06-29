@@ -10,7 +10,7 @@ Alternative palette for stronger contrast.
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark-alt.png)
 
-***
+
 
 ### How to Install
 
