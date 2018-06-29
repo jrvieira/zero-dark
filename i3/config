@@ -37,7 +37,7 @@ bindsym $mod+Shift+q kill
 
 # start dmenu / rofi (a program launcher)
 # bindsym $mod+d exec dmenu_run
-bindsym $mod+d exec rofi -show run -eh 2 -fullscreen -padding 100 -bw 0 -bc "$inactive-bg-color" -bg "$inactive-bg-color" -fg "$bg-color" -hlbg "$inactive-bg-color" -hlfg "$text-color" -font "Source Code Pro 8"
+bindsym $mod+d exec rofi -show run -theme "zero-dark"
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
