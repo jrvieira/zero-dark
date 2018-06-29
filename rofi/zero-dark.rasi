@@ -1,0 +1,27 @@
+/* zero-dark theme */
+
+* {
+        background-color: #1d1f21;
+        text-color: #676E7D;
+}
+
+#window {
+        padding: 60px;
+}
+
+#inputbar {
+        padding: 0px 0px 10px 0px;
+}
+
+#prompt {
+        text-color: #66cccc;
+        padding: 0px 6px 0px 0px;
+}
+
+#entry {
+        text-color: #c5c8c6;
+}
+
+#element selected {
+        text-color: #66cccc;
+}
