@@ -1,0 +1,16 @@
+configuration {
+        width: 100;
+        lines: 9;
+        columns: 1;
+        font: "Source Code Pro 7";
+        fixed-num-lines: true;
+        disable-history: false;
+        case-sensitive: false;
+        cycle: true;
+        eh: 2;
+        matching: "fuzzy";
+        hide-scrollbar: true;
+        show-match: false;
+        theme: "zero-dark";
+        fullscreen: true;
+}
