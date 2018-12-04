@@ -117,14 +117,14 @@ body[data-custom-scroller="true"]::-webkit-scrollbar-thumb:hover {
 /* Links */
 
 a {
-	color: #cc99cc !important;
+	color: #66cccc !important;
 	text-decoration: none;
 	padding: 3px 0px;
 }
 
 a:hover {
-	color: #232323!important;
-	background-color: #cc99cc;
+	color: #232323 !important;
+	background-color: #66cccc;
 }
 
 /*div.line:hover a {
@@ -139,10 +139,10 @@ a:hover {
 	right: 0;
 	opacity: 0; /* Set by JavaScript */
 	z-index: 400;
-	color: #232323;
+	color: #cc99cc;
 	position: fixed;
 	padding: 2px 1em 3px 1em;
-	background: #93a1a1;
+	background: #232323;
 	-webkit-transition: opacity 0.8s linear;
 	-webkit-font-smoothing: subpixel-antialiased;
 	overflow: hidden;
@@ -264,28 +264,34 @@ div.line[data-line-type="privmsg"][data-member-type="myself"]:hover .time {
 /* Message buffer session indicator */
 
 .message_buffer_session_indicator {
-	display: flex;
-	display: -webkit-flex;
-	padding: 0.5em 0;
+	display: block;
+	text-align: center;
 }
 
 .message_buffer_session_indicator > hr {
-	background: #444;
+	color: #93a1a1;
 	border: 0;
-	height: 1px;
-	margin-top: 0.6em;
-	flex: 1;
-	-webkit-flex: 1;
 }
 
 .message_buffer_session_indicator > span {
-	font-style: oblique;
-	margin: 0 1em;
-	color: #919191;
+	margin: 0;
+	color: #93a1a1;
 }
 
 .message_buffer_session_indicator + #mark {
 	display: none;
+}
+
+/* Date indicator */
+
+.date_indicator {
+	display: block;
+	text-align: center;
+	color: #444;
+}
+
+.date_indicator hr {
+	border: 0;
 }
 
 /* NOTICE/CTCP/WALLOPS */
@@ -395,15 +401,20 @@ div.line[data-line-type="kill"] .message,
 div.line[data-line-type="nick"] .message,
 div.line[data-line-type="mode"] .message,
 div.line[data-line-type="website"] .message {
-	color: #444!important;
+	color: #444 !important;
 }
 
-div.line[data-line-type="topic"] .message {
-	color: #fed37f!important;
+div.line[data-line-type="topic"] span.message {
+	color: #444 !important;
+}
+
+div.line[data-line-type="topic"] span.message > b {
+	font-weight: normal !important;
+	color: #cc99cc !important;
 }
 
 div.line[data-line-type="debug"] .message {
-	color: #444!important;
+	color: #444 !important;
 }
 
 body[dir="ltr"] div.line[data-line-type="join"] .message:before {
