@@ -49,5 +49,5 @@ Thoughfully designed minimal interface for effective communication.
 - i3
 - Rofi
 
-Looks great together with the Source Code Pro font, as displayed.
+Looks great with the Source Code Pro font, as displayed.
 
