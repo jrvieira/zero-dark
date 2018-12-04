@@ -10,7 +10,9 @@ Alternative palette for stronger contrast.
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark-alt.png)
 
+## zero-dark-renaissance
 
+![screenshot](https://github.com/jrvieira/zero-dark/blob/master/renaissance.png)
 
 ### How to Install
 
