@@ -7,7 +7,6 @@ Logical color coding, optimized for js. Works great with the [Spacegray Eighties
 Alternative palettes for stronger contrast.
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark-alt.png)
-
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/renaissance.png)
 
 ### How to Install
