@@ -1,4 +1,4 @@
-# SublimeText
+# Syntax Highlight
 
 Logical color coding, optimized for js. Works great with the [Spacegray Eighties Theme](https://github.com/kkga/spacegray#spacegray-eighties).
 
@@ -32,7 +32,7 @@ You can alternatively install it manually:
 
 ***
 
-# Textual + LimeChat
+# IRC
 
 Thoughfully designed minimal interface for effective communication.
 
@@ -51,3 +51,6 @@ Thoughfully designed minimal interface for effective communication.
 - X
 - i3
 - Rofi
+
+Looks great together with the Source Code Pro font, as displayed.
+
