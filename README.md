@@ -46,6 +46,7 @@ Thoughfully designed minimal interface for effective communication.
 - Atom
 - Textual
 - LimeChat
+- irssi
 - Macos Terminal
 - X
 - i3
