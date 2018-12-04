@@ -4,13 +4,9 @@ Logical color coding, optimized for js. Works great with the [Spacegray Eighties
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark.png)
 
-## zero-dark-alt
-
-Alternative palette for stronger contrast.
+Alternative palettes for stronger contrast.
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark-alt.png)
-
-## zero-dark-renaissance
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/renaissance.png)
 
