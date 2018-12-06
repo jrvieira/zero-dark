@@ -45,6 +45,7 @@ Thoughfully designed minimal interface for effective communication.
 - LimeChat
 - irssi
 - Macos Terminal
+- iTerm
 - X
 - i3
 - Rofi
