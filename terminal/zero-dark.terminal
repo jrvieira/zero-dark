@@ -521,11 +521,11 @@
 	<key>WindowTitle</key>
 	<string></string>
 	<key>columnCount</key>
-	<integer>160</integer>
+	<integer>144</integer>
 	<key>name</key>
 	<string>zero-dark</string>
 	<key>rowCount</key>
-	<integer>37</integer>
+	<integer>27</integer>
 	<key>shellExitAction</key>
 	<integer>0</integer>
 	<key>type</key>
