@@ -32,7 +32,7 @@
 				<key>invisibles</key>
 				<string>#262626</string>
 				<key>lineHighlight</key>
-				<string>#c6bb9b10</string>
+				<string>#262626</string>
 				<key>selection</key>
 				<string>#c6bb9b10</string>
 			</dict>
