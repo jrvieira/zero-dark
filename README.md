@@ -1,4 +1,4 @@
-# Syntax Highlight
+# zero-dark
 
 Thoughtful color coding for Sublime Text.
 
@@ -29,9 +29,7 @@ You can alternatively install it manually:
 
 ***
 
-# IRC
-
-Thoughfully designed minimal interface for effective communication.
+Explore the [zero-dark family](https://github.com/jrvieira/zero-dark) of designed minimal interfaces for effective communication:
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/textual.png)
 
