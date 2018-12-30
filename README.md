@@ -1,6 +1,6 @@
 # Syntax Highlight
 
-Logical color coding, optimized for js. Works great with the [Spacegray Eighties Theme](https://github.com/kkga/spacegray#spacegray-eighties).
+Thoughtful color coding for Sublime Text.
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/dark.png)
 
@@ -49,6 +49,4 @@ Thoughfully designed minimal interface for effective communication.
 - X
 - i3
 - Rofi
-
-Looks great with the Source Code Pro font, as displayed.
 
