@@ -26,17 +26,3 @@ Explore the [zero-dark family](https://github.com/jrvieira/zero-dark) of designe
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/textual.png)
 
 ***
-
-# All supported apps
-
-- SublimeText
-- Atom
-- Textual
-- LimeChat
-- irssi
-- Macos Terminal
-- iTerm
-- X
-- i3
-- Rofi
-
