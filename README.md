@@ -9,7 +9,7 @@ Thoughtfully designed, minimal interfaces for effective communication
 - Textual
 - LimeChat
 - irssi
-- Macos Terminal
+- MacOS Terminal
 - iTerm
 - X
 - i3
