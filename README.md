@@ -19,7 +19,12 @@ Thoughtfully designed, minimal interfaces for effective communication
 
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/textual.png)
 
-#<p align="center">
-![screenshot](https://github.com/jrvieira/zero-dark/blob/master/hask.png)
-#</p>
-***
+![screenshot](https://github.com/jrvieira/zero-dark/blob/master/hask.png#center)
+
+
+<style>
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+</style>
