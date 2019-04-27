@@ -21,5 +21,5 @@ Thoughtfully designed, minimal interfaces for effective communication
 
 #<p align="center">
 ![screenshot](https://github.com/jrvieira/zero-dark/blob/master/hask.png)
-</p>
+#</p>
 ***
