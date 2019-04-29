@@ -1301,7 +1301,7 @@
 	<key>CharacterEncoding</key>
 	<integer>4</integer>
 	<key>CursorBlink</key>
-	<false/>
+	<true/>
 	<key>CursorColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGKyxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -1667,7 +1667,7 @@
 	<key>WindowTitle</key>
 	<string></string>
 	<key>columnCount</key>
-	<integer>144</integer>
+	<integer>162</integer>
 	<key>name</key>
 	<string>zero-dark-alt inverted</string>
 	<key>rowCount</key>
