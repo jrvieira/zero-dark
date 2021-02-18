@@ -1,8 +1,50 @@
-xterm*faceName: SourceCodePro-Black
+*VT100*colorMode: on
+*VT100*dynamicColors: on
+
+! special
+*.foreground:   #d3d0c8
+*.background:   #2d2d2d
+*.cursorColor:  #79d4d5
+
+! black
+*.color0:       #242424
+*.color8:       #747369
+
+! red
+*.color1:       #f2777a
+*.color9:       #913535
+
+! green
+*.color2:       #99cc99
+*.color10:      #A0A35D
+
+! yellow
+*.color3:       #ffcc66
+*.color11:      #C47848
+
+! blue
+*.color4:       #6699cc
+*.color12:      #527386
+
+! magenta
+*.color5:       #cc99cc
+*.color13:      #846488
+
+! cyan
+*.color6:       #66cccc
+*.color14:      #618E8B
+
+! white
+*.color7:       #ffffff
+*.color15:      #969896
+
+!xterm
+xterm*utf8: 1
+xterm*faceName: Source Code Pro - Black
 xterm*faceSize: 7
 xterm*cursor: i-beam
+xterm*visualBell: false
 xterm*cursorColor: #79d4d5
-
 xterm*toolBar: false
 xterm*internalBorder: 20
 xterm*borderWidth: 0
@@ -10,53 +52,30 @@ xterm*loginShell: true
 xterm*scrollBar: false
 xterm*rightScrollBar: false
 xterm*saveLines: 999
+xterm*VT100.Translations: #override \
+   Ctrl Shift <Key>V: insert-selection(CLIPBOARD) \n\
+   Ctrl Shift <Key>C: copy-selection(CLIPBOARD)
 
-!TomorrowNight
-#define t_background        #1d1f21
-#define t_current_line      #282a2e
-#define t_selection             #373b41
-#define t_foreground            #c5c8c6
-#define t_comment               #969896
-#define t_red                   #cc6666
-#define t_orange                #de935f
-#define t_yellow                #f0c674
-#define t_green                 #b5bd68
-#define t_aqua                  #8abeb7
-#define t_blue                  #81a2be
-#define t_purple                #b294bb
-
-
-*.foreground:   t_foreground
-*.background:   t_background
-*.cursorColor:  #aeafad
-
-! Black / Grey
-*.color0:       #000000
-*.color8:       #666666
-
-! Red / Bright Red
-*.color1:       t_red
-*.color9:       #FF3334
-
-! Green + Bright Green
-*.color2:       t_green
-*.color10:      #9ec400
-
-! Yellow (Orange) + Bright Yellow (Yellow)
-*.color3:       t_orange
-*.color11:      t_yellow
-
-! Blue + Bright Blue
-*.color4:       t_blue
-*.color12:      t_blue
-
-! Magenta (Purple) + Bright Magenta
-*.color5:       t_purple
-*.color13:      #b777e0! Cyan (Aqua) + Bright Cyan
-*.color6:       t_aqua
-*.color14:      #54ced6
-
-! Light Grey (Selection) + White (Current Line)
-*.color7:       t_selection
-*.color15:      t_current_line
-
+! urxvt
+URxvt*internalBorder: 20
+URxvt*buffered: true
+URxvt*jumpScroll: true
+URxvt*skipScroll: true
+URxvt*visualBell: false
+URxvt*cursorColor: #79d4d5
+URxvt*cursorBlink: false
+URxvt.underlineURLs: false
+URxvt*font: xft:Source Code Pro - Black:size=7
+URxvt.letterSpace: -1
+URxvt.lineSpace: 0
+URxvt*depth: 32
+URxvt*borderless: 1
+URxvt*scrollBar: false
+URxvt*loginShell: true
+Urxvt*secondaryScroll: true # Enable Shift-PageUp/Down in screen
+URxvt*saveLines: 5000
+URxvt*termName: rxvt-unicode
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+URxvt.iso14755: false
+URxvt.iso14755_52: false
